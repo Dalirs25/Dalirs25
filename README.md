@@ -1,16 +1,15 @@
-## Hi there 👋
+👩‍💻 Hola, soy Dalia!
 
-<!--
-**Dalirs25/Dalirs25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Ingeniera en Sistemas Computacionales apasionada por la programación, la tecnología y el aprendizaje constante.
+🌱 Actualmente, estoy explorando nuevas formas de combinar creatividad y código para resolver problemas del mundo real.
+🚀 Creo en el poder de la tecnología para transformar ideas en soluciones innovadoras.
 
-Here are some ideas to get you started:
+🔧 Mis habilidades incluyen:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desarrollo web.
+Diseño y programación de sistemas.
+Creación de interfaces amigables para el usuario.
+
+💡 Me inspiran los proyectos que impactan positivamente a las personas, ya sea facilitando procesos, educando o creando experiencias únicas.
+
+🌟 Frase que me guía: "El código no solo construye sistemas, también construye sueños."
